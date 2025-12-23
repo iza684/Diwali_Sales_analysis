@@ -62,6 +62,9 @@ To improve clarity and storytelling, the same insights were later converted into
 - Interactive slicers (State, Category, Gender)
 
 ---
+## Dashboard Preview 
+
+![Diwali Sales Dashboard](dashboard_preview.png)
 
 ##  Key Insights
 
